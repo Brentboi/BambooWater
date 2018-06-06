@@ -2,6 +2,7 @@
 Bamboo Water is a project for COGS 120/CSE 170, a course at UCSD. It's a mobile web application intended to help elderly people keep track of their fiber/water intake. The application is made using HTML/CSS/Javascript, it has a mock-login system (So you don't really need to make an account) and uses local storage as a means to store the user's data.
 
 Hosted on github pages: https://Brentboi.github.io/BambooWater
+
 Video Demo: https://www.youtube.com/watch?v=4yZHhErmNJU
 
 ## Features/Instructions
